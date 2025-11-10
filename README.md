@@ -110,7 +110,8 @@ Data packets were transmitted via **LoRa SX1278** to the ground station.
 ## 👨‍🚀 Developed By
 
 [Shikha](https://www.linkedin.com/in/shikha2006/)
-
+[Rahul](https://www.linkedin.com/in/rahul-kumar-rk212004/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BTlsFkM0%2FT%2FGMmACkCoS%2F9Q%3D%3D)
+[Arya](https://www.linkedin.com/in/arya-mishra-43307525a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BTlsFkM0%2FT%2FGMmACkCoS%2F9Q%3D%3D)
  
 
 <p align="center">
